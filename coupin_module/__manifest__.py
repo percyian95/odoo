@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "Sale Coupon Fix",
-    'author': 'Wizard Technolab',
-    "description": """Sale Coupon Customisation""",
-    "summary": """Sale Coupon Customisation""",
+    "name": "testing module",
+    'author': 'percy',
+    "description": """testing description""",
+    "summary": """testing summary""",
     "version": "12.0.1.0.0",
-    "support": "info@wizardtechnolab.com",
+    "support": "no support",
     "category": "Sale",
     "depends": ['sale_management'],
     "data": [],
